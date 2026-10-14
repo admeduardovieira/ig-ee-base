@@ -100,7 +100,7 @@ menu:
     "Contact Us": contact.html
     Downloads: download.html
     "IG vastuvõtmise protsess": ballot.html
-    "FHIR Spec ": new-tab {{site.data.fhir.path}}index.html
+    "FHIR Spec": new-tab {{site.data.fhir.path}}index.html
   Changes: changes.html
 
 #parameters:
